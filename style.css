@@ -247,7 +247,7 @@
 }
 
 .about-me p{
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Roboto Mono', monospace;
     padding-bottom: 10px;
     color: #726f64;
@@ -261,18 +261,18 @@
 
 .skills{
     width: 60%;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Roboto Mono', monospace;
+    color: #726f64;
     margin-inline: auto;
     margin-top: 10px;
+    padding-block: 20px;
+    background-color: #F0EAD6;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 20%;
-    background-color: #F0EAD6;
-    color: #726f64;
-    font-weight: 500;
-    font-size: 16px;
-    font-family: 'Roboto Mono', monospace;
-    padding-block: 20px;
 }
 
 .skills ul{
