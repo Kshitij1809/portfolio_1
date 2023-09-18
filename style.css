@@ -366,7 +366,8 @@ h3{
     font-family: 'Roboto Mono', monospace;
     color: #726f64;
     font-weight: 500;
-    padding-inline: 10px;
+    padding-left: 10px;
+    padding-right:20px
 }
 
 .cards .card a{
